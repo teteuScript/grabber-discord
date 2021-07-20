@@ -1,4 +1,4 @@
- - TOKEN DISCORD GRABBER
+                             - TOKEN DISCORD GRABBER
 
 
 OBS: Salve o texto em  .PY , o nome antes você decide.

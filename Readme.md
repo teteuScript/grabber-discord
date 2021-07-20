@@ -1,7 +1,7 @@
 - TOKEN DISCORD GRABBER
 
 
-OBS: SALVE O TEXTO EM .PY , o nome antes vc decide.
+OBS: Salve o texto em  .PY , o nome antes você decide.
 
 
 OBS: Programa python simples que pode obter informações privadas e enviar para o Discord Webhook especificado.
